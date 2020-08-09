@@ -16,7 +16,8 @@ body {
 nav {
 	background: #5434af;
 	height: 80px;
-	width: 100%;
+    width: 100%;
+    position: fixed;
 }
 label.logo {
 	color: white;
