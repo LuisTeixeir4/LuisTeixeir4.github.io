@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		 <link rel="stylesheet" href="login.css">
+	</head>
+    <body>
+        <header>
+            <a href="index.html"> <img src="img/logo.png" id="logo" /> </a>
+		</header>
+		<form action="index.html" style="border:1px solid #ccc">
+		  <div class="container">
+			<h1 style=" text-align: center">CADASTRAR-SE</h1>
+			<p>Preencha o formulário para prosseguir</p>
+			<hr>
+
+			<label for="email"><b>Email</b></label>
+			<input type="text" placeholder="Enter Email" name="email" required>
+
+			<label for="psw"><b>Senha</b></label>
+			<input type="password" placeholder="Enter Password" name="psw" required>
+
+			<label for="psw-repeat"><b>Repita a senha</b></label>
+			<input type="password" placeholder="Repeat Password" name="psw-repeat" required>
+
+			<label>
+			  <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> lembre de mim
+			</label>
+
+			<p>Ao criar uma conta, você concorda com nossos<a href="#" style="color:dodgerblue">Termos & Privacidade</a>.</p>
+
+			<div class="clearfix">
+			  <button type="submit" onclick="index.html()" class="cancelbtn">Cancelar</button>
+			  <button type="submit" class="signupbtn" >cadastar</button>
+			</div>
+		  </div>
+
+		</form>
+	</body>
+</html>
