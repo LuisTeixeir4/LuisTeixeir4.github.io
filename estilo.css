@@ -39,7 +39,7 @@ a {	text-decoration:none;
 }
 #imagem_fundo {
     background: url("fundo.jpg");
-	max-width:100%;
+	max-width:300%;
 	height:auto;
     text-align: center;
     background-size: cover;
