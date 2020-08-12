@@ -36,6 +36,7 @@ li {
 }
 a {	text-decoration:none;
 	color: #cc8400;
+	font-family: colleges;
 }
 #imagem_fundo {
     background: url("fundo.jpg");
