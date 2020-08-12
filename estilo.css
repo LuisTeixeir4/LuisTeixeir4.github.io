@@ -51,11 +51,11 @@ a {	text-decoration:none;
 	font-family: colleges;
 }
 #subtitulo {
-    color: white;
+	color: white;
     margin-left: 20%;
     margin-right: 20%;
+    border-top: 3px solid white;
     text-shadow: 1px 1px  black;
-	text-align: right;
 	font-family: colleges;
 }
 #acao {
