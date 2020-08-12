@@ -39,7 +39,7 @@ a {	text-decoration:none;
 }
 #imagem_fundo {
     background: url("fundo.jpg");
-	max-width:100%;
+    height: 100%;
     text-align: center;
     background-size: cover;
 }
@@ -67,7 +67,7 @@ a {	text-decoration:none;
 	margin-top: 90px;
 	float: left;
 	padding: 0 5%;
-	font-family: retrochips;
+		font-family: retrochips;
 
 }
 .imgComoFunciona{
@@ -83,7 +83,7 @@ a {	text-decoration:none;
 	text-align: left;
 	margin-top: 90px;
 	padding: 0 5%;
-	font-family: retrochips;
+		font-family: retrochips;
 
 }
 .imgAprender{
@@ -96,7 +96,7 @@ a {	text-decoration:none;
 
 .ensinar {
    text-align: justify;
-	text-align: left;
+	text-align: right;
 	margin-top: 90px;
 	padding: 0 1%;
 	font-family: retrochips;
@@ -110,7 +110,7 @@ a {	text-decoration:none;
 
 }
 .icone {
-    width: 51px;
+    width: 35px;
 }
 section {
     padding: 20px;
@@ -120,8 +120,8 @@ section {
     background-color: #f7f7f7;
 }
 .imgeco {
-    width: 90%;
-    height: 30%;
+    width: 40%;
+    height: 15%;
 }
 .coluna {
     float: left;
@@ -145,7 +145,7 @@ section {
     text-align: center;
 }
 footer {
-    background-color: #808080;
+    background-color: #01AAEA;
     float: left;
     width: 100%;
     height: 30%;
