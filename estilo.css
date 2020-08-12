@@ -44,7 +44,7 @@ a {	text-decoration:none;
     background-size: cover;
 }
 #titulo {
-     color: white;
+    color: white;
 	text-align: right;
 	padding: 0 33%;
     padding-top: 23%;
@@ -62,8 +62,9 @@ a {	text-decoration:none;
 }
 #acao {
     color: white;
-    border: 1px orange solid;
+    border: 3px orange solid;
     padding: 10px 20px 10px 20px ;
+	font-family: colleges;
 }
 .comoFunciona {
     text-align: justify;
