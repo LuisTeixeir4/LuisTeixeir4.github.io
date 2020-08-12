@@ -46,7 +46,7 @@ a {	text-decoration:none;
 #titulo {
     color: white;
 	text-align: right;
-	padding: 0 33%;
+	padding: 0 29%;
     padding-top: 23%;
     font-size: 40px;
     line-height: 0.6;
@@ -55,13 +55,13 @@ a {	text-decoration:none;
 #subtitulo {
 	color: white;
 	text-align: right;
-	padding: 0 34%;
+	padding: 0 29%;
 	font-size: 20px;
     text-shadow: 1px 1px  black;
 	font-family: colleges;
 }
 #acao {
-    color: white;
+    color: #cc8400;
     border: 3px orange solid;
     padding: 10px 20px 10px 20px ;
 	font-family: colleges;
