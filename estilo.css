@@ -49,14 +49,13 @@ a {	text-decoration:none;
     font-size: 40px;
     line-height: 0.6;
 	font-family: colleges;
-	position: fixed;
 }
 #subtitulo {
     color: white;
     margin-left: 20%;
     margin-right: 20%;
     text-shadow: 1px 1px  black;
-	position: fixed
+
 	font-family: colleges;
 }
 #acao {
