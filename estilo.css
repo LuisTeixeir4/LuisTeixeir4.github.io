@@ -44,18 +44,18 @@ a {	text-decoration:none;
     background-size: cover;
 }
 #titulo {
-     color: white;
-	text-align: right;
-	padding: 0 33%;
+    color: white;
+	text-align: left;
+	padding: 0 32%;
     padding-top: 23%;
     font-size: 40px;
     line-height: 0.6;
 	font-family: colleges;
 }
 #subtitulo {
-	color: white;
-	text-align: right;
-	padding: 0 34%;
+    color: white;
+	text-align: left;
+	padding: 0 32%;
 	font-size: 20px;
     text-shadow: 1px 1px  black;
 	font-family: colleges;
@@ -64,6 +64,7 @@ a {	text-decoration:none;
     color: white;
     border: 1px white solid;
     padding: 10px 20px 10px 20px ;
+
 }
 .comoFunciona {
     text-align: justify;
