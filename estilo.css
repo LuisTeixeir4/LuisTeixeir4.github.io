@@ -46,6 +46,8 @@ a {	text-decoration:none;
 #titulo {
     color: white;
     padding-top: 23%;
+	   margin-left: 20%;
+    margin-right: 20%;
     font-size: 40px;
     line-height: 0.6;
 	font-family: colleges;
