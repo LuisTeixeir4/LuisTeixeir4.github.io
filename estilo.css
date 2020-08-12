@@ -72,7 +72,7 @@ a {	text-decoration:none;
 	margin-top: 90px;
 	float: left;
 	padding: 0 5%;
-		font-family: retrochips;
+	font-family: retrochips;
 
 }
 .imgComoFunciona{
@@ -101,7 +101,7 @@ a {	text-decoration:none;
 
 .ensinar {
    text-align: justify;
-	text-align: right;
+	text-align: left;
 	margin-top: 90px;
 	padding: 0 1%;
 	font-family: retrochips;
